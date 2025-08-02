@@ -9,7 +9,7 @@
     "classnames": "^2.5.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "sass": "^1.89.2",
     "web-vitals": "^5.1.0"
   },
